@@ -24,7 +24,7 @@ A Streamlit-based web application for analyzing stock delivery percentages using
   - Date range analysis
   - Pattern detection
   - Volume analysis (when available)
- 
+
 <img width="1428" alt="Screenshot 2024-11-05 at 6 30 52 PM" src="https://github.com/user-attachments/assets/b0a19ea3-c4e3-4952-9dbc-5237c743e7af">
 <img width="1428" alt="Screenshot 2024-11-05 at 6 31 00 PM" src="https://github.com/user-attachments/assets/2ea4b467-ff4c-49a0-9636-f40dfecf3178">
 
@@ -39,13 +39,15 @@ A Streamlit-based web application for analyzing stock delivery percentages using
 1. Visit [NSE Security-wise Archive](https://www.nseindia.com/report-detail/eq_security)
 2. Download historical data for specific stocks
 
-## Installation 
+## Installation & Deployment
+
+### Local Development
 
 #### Clone the repository
 ```git clone [repository-url]```
 
 #### Install required packages
-```pip install streamlit pandas plotly```
+```pip install streamlit pandas plotly numpy```
 
 #### Run the application
 ```streamlit run stock_delivery_analysis_tool.py```
