@@ -1,6 +1,8 @@
 # Stock Delivery Analysis Tool
 
-A Streamlit-based web application for analyzing stock delivery percentages using NSE (National Stock Exchange) data. This tool provides two main functionalities:
+A Streamlit-based web application for analyzing stock delivery percentages using NSE (National Stock Exchange) data.
+
+https://bas-stock-analysis.streamlit.app/
 
 ## Features
 
